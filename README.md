@@ -1,3 +1,3 @@
 progfun-objsets
 ===============
->build it with sbt.
+>Build it with sbt.
